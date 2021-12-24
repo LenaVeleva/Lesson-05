@@ -2,3 +2,13 @@ h1 {
     color: blueviolet;
     font-size: 44px;
 }
+h3 {
+    background-color: cadetblue;
+    font-size: 28px;
+    display: inline-block;
+    margin: 0;
+}
+h5 {
+    background-color: darkblue;
+    display: inline-flex;
+}
